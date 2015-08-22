@@ -1,0 +1,145 @@
+[12-Aug-2015 18:51:21 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 6
+[12-Aug-2015 18:51:52 America/Chicago] PHP Fatal error:  Class 'Facebook' not found in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 6
+[12-Aug-2015 18:53:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 18:56:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 18:56:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 18:58:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 18:59:21 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:00:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:03:24 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:10:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:12:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:13:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:13:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:14:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(56): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:15:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(59): Facebook\Authentication\AccessTokenMetadata->validateAppId(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Aug-2015 19:19:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/anthonyliria/public_html/web/fblogin/fb-callback.php:46) in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 80
+[12-Aug-2015 19:35:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:37:00 America/Chicago] PHP Fatal error:  Cannot use object of type Facebook\Authentication\AccessTokenMetadata as array in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:37:19 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:37:46 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:37:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:38:10 America/Chicago] PHP Fatal error:  Cannot use object of type Facebook\Authentication\AccessTokenMetadata as array in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:38:26 America/Chicago] PHP Fatal error:  Cannot use object of type Facebook\Authentication\AccessTokenMetadata as array in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 19:55:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message 'An active access token must be used to query information about the current user.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php:125
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+#4 /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php(504): Facebook\FacebookClient->sendRequest(Object(Facebook\Faceb in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php on line 125
+[12-Aug-2015 19:56:40 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message 'An active access token must be used to query information about the current user.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php:125
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+#4 /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php(504): Facebook\FacebookClient->sendRequest(Object(Facebook\Faceb in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php on line 125
+[12-Aug-2015 20:03:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 78
+[12-Aug-2015 20:33:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Required "app_id" key not supplied in config and could not find fallback environment variable "FACEBOOK_APP_ID"' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php:133
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(82): Facebook\Facebook->__construct(Array)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php on line 133
+[12-Aug-2015 20:33:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Required "app_id" key not supplied in config and could not find fallback environment variable "FACEBOOK_APP_ID"' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php:133
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/fb-callback.php(82): Facebook\Facebook->__construct(Array)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php on line 133
+[12-Aug-2015 20:45:21 America/Chicago] PHP Catchable fatal error:  Object of class Facebook\FacebookResponse could not be converted to string in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 101
+[12-Aug-2015 20:48:16 America/Chicago] PHP Fatal error:  Call to undefined method Facebook\Facebook::getFirstName() in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 101
+[12-Aug-2015 20:56:11 America/Chicago] PHP Fatal error:  Call to undefined method Facebook\GraphNodes\GraphUser::getCity() in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 102
+[12-Aug-2015 21:13:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 100
+[12-Aug-2015 21:37:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/anthonyliria/public_html/web/fblogin/fb-callback.php:100) in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 111
+[12-Aug-2015 21:37:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/anthonyliria/public_html/web/fblogin/fb-callback.php:100) in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 112
+[12-Aug-2015 21:42:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/anthonyliria/public_html/web/fblogin/fb-callback.php:100) in /home4/anthonyliria/public_html/web/fblogin/fb-callback.php on line 112
+[12-Aug-2015 22:05:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/anthonyliria/public_html/web/fblogin/index.php on line 37
+[12-Aug-2015 22:06:09 America/Chicago] PHP Fatal error:  Call to a member function getUserId() on a non-object in /home4/anthonyliria/public_html/web/fblogin/index.php on line 36
+[12-Aug-2015 22:17:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/anthonyliria/public_html/web/fblogin/index.php on line 20
+[12-Aug-2015 22:17:55 America/Chicago] PHP Fatal error:  Class 'FacebookSession' not found in /home4/anthonyliria/public_html/web/fblogin/index.php on line 19
+[13-Aug-2015 08:06:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/anthonyliria/public_html/web/fblogin/index.php on line 6
+[13-Aug-2015 08:10:32 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home4/anthonyliria/public_html/web/fblogin/index.php on line 17
+[13-Aug-2015 08:12:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message 'An active access token must be used to query information about the current user.' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php:125
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home4/anthonyliria/public_html/web/fblogin/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+#4 /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php(504): Facebook\FacebookClient->sendRequest(Object(Facebook\Faceb in /home4/anthonyliria/public_html/web/fblogin/Facebook/Exceptions/FacebookResponseException.php on line 125
+[13-Aug-2015 18:29:03 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php:298
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/index.php(23): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php on line 298
+[15-Aug-2015 14:40:20 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php:298
+Stack trace:
+#0 /home4/anthonyliria/public_html/web/fblogin/index.php(23): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/web/fblogin/Facebook/Facebook.php on line 298
+[17-Aug-2015 06:58:38 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php:298
+Stack trace:
+#0 /home4/anthonyliria/public_html/liriant.com/Login_System/index.php(24): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php on line 298
+[17-Aug-2015 07:00:17 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php:298
+Stack trace:
+#0 /home4/anthonyliria/public_html/liriant.com/Login_System/index.php(24): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php on line 298
+[22-Aug-2015 16:13:54 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php:298
+Stack trace:
+#0 /home4/anthonyliria/public_html/liriant.com/Login_System/index.php(24): Facebook\Facebook->setDefaultAccessToken(NULL)
+#1 {main}
+  thrown in /home4/anthonyliria/public_html/liriant.com/Login_System/Facebook/Facebook.php on line 298
