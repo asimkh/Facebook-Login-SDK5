@@ -33,7 +33,7 @@ $fb = new Facebook\Facebook([
 
 $helper = $fb->getRedirectLoginHelper();
 $permissions = ['email', 'public_profile']; // optional
-$loginUrl = $helper->getLoginUrl('http://www.liriant.com/Login_System/fb-callback.php', $permissions);
+$loginUrl = $helper->getLoginUrl('fb-callback.php', $permissions);
 
 
 echo '<a href="' . $loginUrl . '">Log in with Facebook!</a>';
