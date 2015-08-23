@@ -2,7 +2,7 @@
 session_start() ;
 if(isset($_SESSION['firstN']))
 {
-	header("Location: http://www.liriant.com/Login_System/index.php");
+	header("Location: index.php");
 }
 require_once ('Facebook/autoload.php');
 require_once ('config.php');
